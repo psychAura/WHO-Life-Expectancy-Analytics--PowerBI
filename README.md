@@ -65,14 +65,13 @@ This project analyzes life expectancy data provided by the World Health Organiza
 - Optimize dashboard performance for large datasets
 
 ## 📝 Author
-**[Your Name]**  
-Data Analyst | Power BI Enthusiast  
-[Your LinkedIn Profile]  
-[Your Portfolio Website]
+**[Kausara Kpabia]**  
+Data Analyst | Power BI Analyst  
+
 
 ## 🗂 Repository Structure
 ```
-|-- Data/                     # Raw and cleaned datasets
+|-- Dataset/                     # Raw and cleaned datasets
 |-- Dashboard/                # Power BI .pbix file
 |-- README.md                 # Project documentation
 ```
